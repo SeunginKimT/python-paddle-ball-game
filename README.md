@@ -17,4 +17,4 @@ The player controls a paddle to bounce a  ball while avoiding falling enemies. E
 
 ## Author
 Created by SeunginKimT
-Github: 
+Github: [https://github.com/SeunginKimT](https://github.com/SeunginKimT)
