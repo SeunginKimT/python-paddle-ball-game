@@ -18,4 +18,4 @@ The player controls a paddle to bounce a  ball while avoiding falling enemies. E
 
 ## Author
 - Created by Seungin Kim T
-Github: [SeunginKimT](https://github.com/SeunginKimT)
+- Github: [SeunginKimT](https://github.com/SeunginKimT)
