@@ -17,5 +17,5 @@ The player controls a paddle to bounce a  ball while avoiding falling enemies. E
 - **IDE**: PyCharm
 
 ## Author
-Created by SeunginKimT
+- Created by Seungin Kim T
 Github: [SeunginKimT](https://github.com/SeunginKimT)
