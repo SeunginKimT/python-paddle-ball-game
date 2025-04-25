@@ -13,6 +13,7 @@ The player controls a paddle to bounce a  ball while avoiding falling enemies. E
 
 ## Tech Stack:
 - **Language**: Python 3.11.9
+- **Libraries**: None(uses built-in Python features)
 - **IDE**: PyCharm
 
 ## Author
